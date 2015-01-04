@@ -1,0 +1,30 @@
+#
+#  MIT 6.01 (Week 1)
+#  Design Lab 1. Problem 1.3.2
+#
+#  Created by Dulio Denis on 1/4/15.
+#  Copyright (c) 2015 ddApps. All rights reserved.
+# ------------------------------------------------
+# http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/MIT6_01SCS11_1_3_2.pdf
+#
+Fill in what gets printed by the interpreter after the following expressions.
+
+1. 'A cool grey car'
+
+2. 'A cool grey car'
+
+3. 'gray'
+
+4. 'A cool grey car'
+
+5. 'A cool plaid car'
+
+6. 'plaid'
+
+7. 'A cool grey car'
+
+8. Error - lola has no size attribute
+
+9. 'big'
+
+10. 'small'
