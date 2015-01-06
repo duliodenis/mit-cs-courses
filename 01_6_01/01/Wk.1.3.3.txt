@@ -1,0 +1,26 @@
+#
+#  MIT 6.01 (Week 1)
+#  Design Lab 1. Problem 1.3.3
+#
+#  Created by Dulio Denis on 1/5/15.
+#  Copyright (c) 2015 ddApps. All rights reserved.
+# ------------------------------------------------
+# http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/MIT6_01SCS11_1_3_3.pdf
+#
+Provide the value of the expressions being evaluated and the type of the resulting value. 
+- If evaluating an expression would cause an error, select noneType and write error in the box.
+- If the value is None, select noneType and enter None.
+- If the value of an expression is a procedure or class, select the appropriate type and also
+  write the name of the procedure or class in the box, as appropriate.
+- If the value is an instance, write the Class name in the box.
+- Select the appropriate type for integers, floats and lists and enter the value.
+
+1. Person is a class
+
+2. p is noneType instance 
+
+3. Car.weight yields int of 1000
+
+4. c.weight yields int of 2000
+
+5. c.driver.weight yields int of 150
