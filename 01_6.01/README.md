@@ -9,10 +9,9 @@ The second goal is to demonstrate that making mathematical models of real system
 
 Below are the problem sets for this course.
 
-No  | Course | Problems
-------------- | -------------
-1. | Design Lab 1 |: 6 :
-
+| No        | Course           | Problems  |
+| ------------- |:-------------:| :-----:|
+| 1.      | Design Lab 1 | 6 |
 
 ### Support or Contact
 Visit [ddApps.co](http://ddapps.co) to see more.
