@@ -23,5 +23,15 @@ No  | Course
 14. | [6.837: Computer Graphics](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/)
 15. | [6.045J: Automata, Computability, and Complexity](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011/)
 
+If the above fifteen courses seems overwhelming then perhaps you'd like to start with just the core courses. I've selected the following five courses from Stanford and Georgia Tech which I consider the best in class at Coursera and Udacity:
+
+No  | Platform | University Course
+------------- | ------------- | -------------
+1. | Coursera | [Stanford CS161: Algorithms: Part 1 & 2](https://www.coursera.org/course/algo)
+2. | Udacity | [Stanford CS188: AI: YouTube Playlist](https://www.youtube.com/watch?v=W1S-HSakPTM&list=PLNozK-HB4MXsVAN6cqkCAO09RChbIAk5i)
+3. | Udacity | [Georgia Tech CS6505: Computability](https://www.udacity.com/course/computability-complexity-algorithms--ud061)
+4. | Udacity | [Georgia Tech CS6210: Advanced Operating Systems](https://www.udacity.com/course/advanced-operating-systems--ud189)
+5. | Coursera | [Stanford CS143: Compilers](https://www.coursera.org/course/compilers)
+
 ### Support or Contact
 Visit [ddApps.co](http://ddapps.co) to see more.
